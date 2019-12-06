@@ -1,5 +1,5 @@
 
-# pdx_demo
+# remote_mac_demo
 
 A new Flutter project.
 
