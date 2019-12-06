@@ -1,4 +1,4 @@
-package com.example.pdx_demo
+package com.example.remote_mac_demo
 
 import android.os.Bundle
 
